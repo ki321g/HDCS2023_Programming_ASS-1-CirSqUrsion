@@ -1,3 +1,0 @@
-Changing file to see if batch file works
-
-Testing if GIT auto pushes files
